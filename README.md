@@ -6,3 +6,5 @@
 #원본 데이터 : data/
 
 #가공 데이터 : result-data/
+
+#colab url: https://colab.research.google.com/drive/1E1txkOZQTNlf-QifOESWx4NR3YKQfXKu?hl=ko
